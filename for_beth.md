@@ -23,3 +23,8 @@ One of the first things that is helpful to master is referencing which includes 
 With all the papers you are reading it is smart to use a dedicated tool to organize them, store them and create a biblography from them. For this I use Zotero. There are many others (mendeley, endnote, etc) but this is the one I use, its free, easy to use and I like it. You will first need to download the Zotero desktop application from (https://www.zotero.org). It is also helpful to install the google chrome extension. After that when you are reading a paper online, all you need to do is click the "Add to library" button on the google chrome extension and the PDF of the paper, all the metadata and its citation will all be saved automatically to your library. From here you can organize your library, read and make notes on the paper and easily export your entire biblography automatically to Overleaf. Additionally if a paper gets retracted, Zotero will let you know. I'll show you how to add your biblography to Overleaf. 
 
 *I've also heard people like using paperpile (https://paperpile.com/features/reference-manager/). This also looks pretty good, but I havent used it yet.*
+
+## Other Tools
+
+I find a lot of tools, writing and academic advice from twitter. Its also really helpful to follow academics in your field on there. You will get an idea of their preffered workflows, tools they use, issues in the field and recent publications. A few cool tools I found on there are:
+- Free, open source 3D animation toolkit (https://coolhunting.com/tech/molecular-flipbook/)
